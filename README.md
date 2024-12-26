@@ -1,9 +1,12 @@
 <h1 align="center">Gustavo Moura</h1>
+<p>Ola! Sou um Analista Desenvolvedor atuando no mercado de desenvolvimento de software desde 2018. Me formei em Ciências da Computação em 2020. Atuo com todo tipo de desenvolvimento de software, desde frontend, backend, full-stack, automações, desenvolvimento de bots, mobile entre outros.</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoMoura10&show_icons=true" alt="Top Langs" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoMoura10&show_icons=true&theme=radical" />
+</p>
 <h2 align="center">Languages, Frameworks, and Databases</h2>
 
 <p align="center">
